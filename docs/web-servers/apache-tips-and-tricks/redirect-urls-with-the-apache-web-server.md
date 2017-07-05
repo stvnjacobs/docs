@@ -13,7 +13,7 @@ published: 'Tuesday, October 13th, 2009'
 title: Redirect URLs with the Apache Web Server
 external_resources:
  - '[Installing Apache](/docs/websites/apache/)'
- - '[LAMP stack guides](/docs/lamp/)'
+ - '[LAMP stack guides](/docs/web-servers/lamp/)'
  - '[Apache Redirect Guide](https://httpd.apache.org/docs/current/mod/mod_alias.html#redirect)'
  - '[Rewrite URLs with mod_rewrite and Apache](/docs/websites/apache-tips-and-tricks/rewrite-urls-with-modrewrite-and-apache)'
 ---
@@ -24,7 +24,7 @@ In this guide, you'll learn how to redirect URLs with Apache. Redirecting a URL 
 
 ## Before You Begin
 
-1.  This guide assumes you have followed our [Getting Started](/docs/getting-started) and [Securing Your Server](/docs/security/securing-your-server) guides, and that you have already configured your Apache installation. If you haven't, refer to our [Apache guides](https://www.linode.com/docs/websites/apache/) or [LAMP stack guides](https://www.linode.com/docs/websites/lamp/).
+1.  This guide assumes you have followed our [Getting Started](/docs/getting-started) and [Securing Your Server](/docs/security/securing-your-server) guides, and that you have already configured your Apache installation. If you haven't, refer to our [Apache guides](/docs/web-servers/apache/) or [LAMP stack guides](/docs/web-servers/lamp/).
 
 2.  In this guide, you will modify the Apache configuration files, so be sure you have the proper permissions to do so.
 
